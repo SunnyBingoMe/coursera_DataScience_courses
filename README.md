@@ -1,3 +1,5 @@
+### I Modified:
+added index urls to github websites for 08 Ppractical ML in syllabus.html
 
 ### Data Science Specialization
 
